@@ -19,10 +19,6 @@ I'm looking for an **embedded software / firmware engineering** role.
 - **Embedded:** STM32 (CMSIS, bare-metal), ESP32, FreeRTOS, I2C, SPI, UART, GPIO interrupts, PlatformIO, ST-Link/SWD debugging, logic analyzer
 - **IoT and web:** MQTT, WebSockets, React, Flask, SQLite
 
-## What I'm Working On
-
-Going deeper into bare-metal STM32 development, starting with finishing SD card initialization and building a small data logger.
-
 ## Contact
 
 - Email: muhamadnazrulhakim03@gmail.com
