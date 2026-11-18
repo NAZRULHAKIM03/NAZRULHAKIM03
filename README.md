@@ -15,9 +15,9 @@ I'm looking for an **embedded software / firmware engineering** role.
 
 ## Skills
 
-- **Languages:** C, C++, Python, SQL
+- **Languages:** C, C++, Python
 - **Embedded:** STM32 (CMSIS, bare-metal), ESP32, FreeRTOS, I2C, SPI, UART, GPIO interrupts, PlatformIO, ST-Link/SWD debugging, logic analyzer
-- **IoT and web:** MQTT, WebSockets, React, Flask, SQLite
+- **IoT and web:** MQTT, WebSockets, React, Flask, SQL
 
 ## Contact
 
